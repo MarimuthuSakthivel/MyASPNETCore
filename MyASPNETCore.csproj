@@ -5,6 +5,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="TestMyASPNETCore\**" />
+    <Content Remove="TestMyASPNETCore\**" />
+    <EmbeddedResource Remove="TestMyASPNETCore\**" />
+    <None Remove="TestMyASPNETCore\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="TestMyASPNETCore.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
   </ItemGroup>
