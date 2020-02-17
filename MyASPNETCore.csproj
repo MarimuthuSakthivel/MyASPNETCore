@@ -6,62 +6,10 @@
 
   <ItemGroup>
     <None Include="TestMyASPNETCore.csproj" />
-    <None Include="TestMyASPNETCore\.git\COMMIT_EDITMSG" />
-    <None Include="TestMyASPNETCore\.git\config" />
-    <None Include="TestMyASPNETCore\.git\description" />
-    <None Include="TestMyASPNETCore\.git\FETCH_HEAD" />
-    <None Include="TestMyASPNETCore\.git\HEAD" />
-    <None Include="TestMyASPNETCore\.git\hooks\applypatch-msg.sample" />
-    <None Include="TestMyASPNETCore\.git\hooks\commit-msg.sample" />
-    <None Include="TestMyASPNETCore\.git\hooks\fsmonitor-watchman.sample" />
-    <None Include="TestMyASPNETCore\.git\hooks\post-update.sample" />
-    <None Include="TestMyASPNETCore\.git\hooks\pre-applypatch.sample" />
-    <None Include="TestMyASPNETCore\.git\hooks\pre-commit.sample" />
-    <None Include="TestMyASPNETCore\.git\hooks\pre-merge-commit.sample" />
-    <None Include="TestMyASPNETCore\.git\hooks\pre-push.sample" />
-    <None Include="TestMyASPNETCore\.git\hooks\pre-rebase.sample" />
-    <None Include="TestMyASPNETCore\.git\hooks\pre-receive.sample" />
-    <None Include="TestMyASPNETCore\.git\hooks\prepare-commit-msg.sample" />
-    <None Include="TestMyASPNETCore\.git\hooks\update.sample" />
-    <None Include="TestMyASPNETCore\.git\index" />
-    <None Include="TestMyASPNETCore\.git\info\exclude" />
-    <None Include="TestMyASPNETCore\.git\logs\HEAD" />
-    <None Include="TestMyASPNETCore\.git\logs\refs\heads\master" />
-    <None Include="TestMyASPNETCore\.git\logs\refs\remotes\origin\master" />
-    <None Include="TestMyASPNETCore\.git\objects\17\a78ecdc18c8c14ca3d73539f54eb9db83b1701" />
-    <None Include="TestMyASPNETCore\.git\objects\1b\9e6eda3b225a03c097a64fa0791ae846b76d53" />
-    <None Include="TestMyASPNETCore\.git\objects\2b\f06828a70f142035a485f5f2c97d1c9715b905" />
-    <None Include="TestMyASPNETCore\.git\objects\3c\55a0c851b2861879db7e0955608240b3c1b68b" />
-    <None Include="TestMyASPNETCore\.git\objects\4b\35d018c7728b4db1708a1bc9caf5188a97eeb1" />
-    <None Include="TestMyASPNETCore\.git\objects\5f\5ae54adda174e5fc46a512bb03487f78c78070" />
-    <None Include="TestMyASPNETCore\.git\objects\67\1111f293f413f1ad2372abf72b5864eff41dd3" />
-    <None Include="TestMyASPNETCore\.git\objects\74\fc988c7524097ddb45545137abc3359fbf86cb" />
-    <None Include="TestMyASPNETCore\.git\objects\79\4c4081dd5b065d6f7efc253e6ed3e1c20cd401" />
-    <None Include="TestMyASPNETCore\.git\objects\88\a550947edbc3c5003a41726f0749201fdb6822" />
-    <None Include="TestMyASPNETCore\.git\objects\89\745ba2c9f6d2b6cdfb9c8e030f0dc10d710639" />
-    <None Include="TestMyASPNETCore\.git\objects\8d\1855edde93814954226a9d1ba0976a704c6a97" />
-    <None Include="TestMyASPNETCore\.git\objects\99\9d57c7db9ce6ba2b9062e791f932788a8027e6" />
-    <None Include="TestMyASPNETCore\.git\objects\9d\2674daf01e6cf287e21809cce4ead523847815" />
-    <None Include="TestMyASPNETCore\.git\objects\a8\369831fe5b0a04d4525b9b613495617e7054d0" />
-    <None Include="TestMyASPNETCore\.git\objects\c8\cb6ef552dda459e14224d0bd44368aa1e33472" />
-    <None Include="TestMyASPNETCore\.git\objects\c9\15176378a641485bf2d9ad4933a855d96470de" />
-    <None Include="TestMyASPNETCore\.git\objects\e1\8b891ec25d48c9c48121d0cb26431050c113c7" />
-    <None Include="TestMyASPNETCore\.git\objects\fb\c33b0e2afb16d7a5e9a8a9fc0ed4d00ddcca0e" />
-    <None Include="TestMyASPNETCore\.git\objects\pack\pack-bb876626c6d47063f77d11a60b48e43d0909b4bd.idx" />
-    <None Include="TestMyASPNETCore\.git\objects\pack\pack-bb876626c6d47063f77d11a60b48e43d0909b4bd.pack" />
-    <None Include="TestMyASPNETCore\.git\ORIG_HEAD" />
-    <None Include="TestMyASPNETCore\.git\refs\heads\master" />
-    <None Include="TestMyASPNETCore\.git\refs\remotes\origin\master" />
-    <None Include="TestMyASPNETCore\TestMyASPNETCore.csproj" />
-    <None Include="TestMyASPNETCore\TestMyASPNETCore.csproj.user" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="TestMyASPNETCore\Properties\PublishProfiles\" />
   </ItemGroup>
 </Project>
