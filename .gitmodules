@@ -1,0 +1,4 @@
+[submodule "MyASPNetCore"]
+	path = MyASPNetCore
+	url = https://github.com/MarimuthuSakthivel/MyASPNetCore
+	branch = master
